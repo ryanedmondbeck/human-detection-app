@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/human-detection-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/human-detection-app/static/js/main.befaf8d0.chunk.js",
+    "main.js.map": "/human-detection-app/static/js/main.befaf8d0.chunk.js.map",
+    "runtime-main.js": "/human-detection-app/static/js/runtime-main.3c9f479b.js",
+    "runtime-main.js.map": "/human-detection-app/static/js/runtime-main.3c9f479b.js.map",
+    "static/js/2.53083674.chunk.js": "/human-detection-app/static/js/2.53083674.chunk.js",
+    "static/js/2.53083674.chunk.js.map": "/human-detection-app/static/js/2.53083674.chunk.js.map",
+    "index.html": "/human-detection-app/index.html",
+    "precache-manifest.1d15d167cb97074627902b3ac0bee1d3.js": "/human-detection-app/precache-manifest.1d15d167cb97074627902b3ac0bee1d3.js",
+    "service-worker.js": "/human-detection-app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/human-detection-app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.53083674.chunk.js.LICENSE.txt": "/human-detection-app/static/js/2.53083674.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c9f479b.js",
+    "static/js/2.53083674.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.befaf8d0.chunk.js"
+  ]
+}
